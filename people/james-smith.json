@@ -1,0 +1,35 @@
+
+{
+  "id": "james-smith",
+  "name": "James Smith",
+  "other_names": [
+    {
+      "name": "Raymond James Smith",
+      "note": "Full name"
+    }
+  ],
+  "identifiers": [
+    {
+      "identifier": "http://id.floppy.org.uk",
+      "scheme": "URI"
+    }
+  ],
+  "email": "james.smith@somethingnew.org.uk",
+  "gender": "male",
+  "birth_date": "1976-06-04",
+  "image": "https://farm6.staticflickr.com/5491/14363783467_ca327831fc_b.jpg",
+  "national_identity": "British",
+  "contact_details": [
+    {
+      "type": "twitter",
+      "label": "Twitter",
+      "value": "@floppy"
+    }
+  ],
+  "links": [
+    {
+      "url": "http://floppy.org.uk",
+      "note": "Personal web page"
+    }
+  ]
+}

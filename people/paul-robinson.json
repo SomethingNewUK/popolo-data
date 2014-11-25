@@ -1,0 +1,13 @@
+{
+  "id": "paul-robinson",
+  "name": "Paul Robinson",
+  "gender": "male",
+  "national_identity": "British",
+  "contact_details": [
+    {
+      "type": "twitter",
+      "label": "Twitter",
+      "value": "@pauljrobinson"
+    }
+  ]
+}
