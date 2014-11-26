@@ -39,6 +39,6 @@
       "path": "elections/2015/south-west-surrey.json",
       "url": "https://somethingnewuk.github.io/candidates/elections/2015/south-west-surrey.json",
       "schema": "http://www.popoloproject.com/schemas/membership.json"
-    },
+    }
   ]
 }
