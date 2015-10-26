@@ -1,0 +1,35 @@
+{
+  "id": "something-new",
+  "name": "Something New",
+  "identifiers": [
+    {
+      "identifier": "PP2486",
+      "scheme": "UK Electoral Commission"
+    },
+  ],
+  "classification": "Political Party",
+  "image": "http://somethingnew.org.uk/images/logo.jpg",
+  "contact_details": [
+    {
+      "type": "email",
+      "label": "Email",
+      "value": "info@somethingnew.org.uk"
+    }
+  ],
+  "links": [
+    {
+      "url": "http://somethingnew.org.uk",
+      "note": "Web page"
+    }
+  ],
+  "memberships": [
+    {
+      "person_id": "james-smith",
+      "role": "Leader & Treasurer"
+    },
+    {
+      "person_id": "paul-robinson",
+      "role": "Nominating Officer"
+    }
+  ]
+}
