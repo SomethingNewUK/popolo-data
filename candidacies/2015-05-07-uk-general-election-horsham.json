@@ -1,0 +1,16 @@
+{
+  "organization_id": "house-of-commons",
+  "label": "Member of Parliament for Horsham",
+  "role": "Member of Parliament",
+  "area": {
+    "identifier": "http://mapit.mysociety.org/area/65717",
+    "id": "mapit:65717",
+    "name": "Horsham"
+  },
+  "memberships": [
+    {
+      "person_id": "james-smith",
+      "role": "Candidate"
+    }
+  ]
+}

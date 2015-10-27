@@ -1,16 +1,8 @@
 {
-  "organization_id": "house-of-commons",
-  "label": "Member of Parliament for Horsham",
-  "role": "Member of Parliament",
-  "area": {
-    "identifier": "http://mapit.mysociety.org/area/65717",
-    "id": "mapit:65717",
-    "name": "Horsham"
-  },
-  "memberships": [
-    {
-      "person_id": "james-smith",
-      "role": "Candidate"
-    }
-  ]
+  "id": "2015-05-07-uk-general-election-horsham",
+  "name": "2015 UK General Election: Horsham Constituency",
+  "start_date": "2015-05-07",
+  "end_date": "2013-05-07",
+  "status": "confirmed",
+  "parent": "2015-05-07-uk-general-election"
 }

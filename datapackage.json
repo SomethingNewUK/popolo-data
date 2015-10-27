@@ -18,32 +18,5 @@
       "name": "James Smith",
       "web": "http://www.floppy.org.uk"
     }
-  ],
-  "resources": [
-    {
-      "path": "people/james-smith.json",
-      "url": "https://somethingnewuk.github.io/candidates/people/james-smith.json",
-      "schema": "http://www.popoloproject.com/schemas/person.json"
-    },
-    {
-      "path": "people/paul-robinson.json",
-      "url": "https://somethingnewuk.github.io/candidates/people/paul-robinson.json",
-      "schema": "http://www.popoloproject.com/schemas/person.json"
-    },
-    {
-      "path": "organizations/something-new.json",
-      "url": "https://somethingnewuk.github.io/candidates/organizations/something-new.json",
-      "schema": "http://www.popoloproject.com/schemas/organization.json"
-    },
-    {
-      "path": "elections/2015/horsham.json",
-      "url": "https://somethingnewuk.github.io/candidates/elections/2015-05-07-uk-general-election/horsham.json",
-      "schema": "http://www.popoloproject.com/schemas/membership.json"
-    },
-    {
-      "path": "elections/2015/south-west-surrey.json",
-      "url": "https://somethingnewuk.github.io/candidates/elections/2015-05-07-uk-general-election/south-west-surrey.json",
-      "schema": "http://www.popoloproject.com/schemas/membership.json"
-    }
   ]
 }
