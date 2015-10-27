@@ -1,0 +1,16 @@
+{
+  "organization_id": "waverley-borough-council",
+  "label": "Councillor for Godalming Central and Ockford",
+  "role": "Councillor",
+  "area": {
+    "identifier": "http://mapit.mysociety.org/area/7419",
+    "id": "mapit:7419",
+    "name": "Godalming Central and Ockford"
+  },
+  "memberships": [
+    {
+      "person_id": "paul-robinson",
+      "role": "Candidate"
+    }
+  ]
+}

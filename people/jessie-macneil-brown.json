@@ -1,0 +1,13 @@
+{
+  "id": "jessie-macneil-brown",
+  "name": "Jessie Macneil-Brown",
+  "gender": "female",
+  "national_identity": "British",
+  "contact_details": [
+    {
+      "type": "twitter",
+      "label": "Twitter",
+      "value": "@activistjess"
+    }
+  ]
+}

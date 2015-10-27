@@ -1,0 +1,16 @@
+{
+  "organization_id": "tower-hamlets-council",
+  "label": "Councillor for Stepney Green",
+  "role": "Councillor",
+  "area": {
+    "identifier": "http://mapit.mysociety.org/area/65678",
+    "id": "mapit:65678",
+    "name": "South West Surrey"
+  },
+  "memberships": [
+    {
+      "person_id": "jessie-macneil-brown",
+      "role": "Candidate"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "rebecca-robinson",
+  "name": "Rebecca Robinson",
+  "gender": "female",
+  "national_identity": "British",
+  "contact_details": [
+    {
+      "type": "twitter",
+      "label": "Twitter",
+      "value": "@bexsa"
+    }
+  ]
+}
