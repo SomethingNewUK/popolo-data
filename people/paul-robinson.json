@@ -1,8 +1,10 @@
 {
   "id": "paul-robinson",
   "name": "Paul Robinson",
+  "email": "paul.robinson@somethingnew.org.uk",
   "gender": "male",
   "national_identity": "British",
+  "image": "http://somethingnew.org.uk/images/people/paul-robinson.jpg",
   "contact_details": [
     {
       "type": "twitter",
