@@ -12,5 +12,15 @@
       "person_id": "paul-robinson",
       "role": "Candidate"
     }
+  ],
+  "links": [
+    {
+      "url": "http://somethingnew.org.uk/elections/2015/05/07/swsurrey.html",
+      "note": "Campaign page"
+    },
+    {
+      "url": "http://somethingnew.org.uk/downloads/swsurrey.pdf",
+      "note": "Election leaflet"
+    }
   ]
 }

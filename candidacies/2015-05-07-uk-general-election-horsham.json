@@ -12,5 +12,15 @@
       "person_id": "james-smith",
       "role": "Candidate"
     }
+  ],
+  "links": [
+    {
+      "url": "http://somethingnew.org.uk/elections/2015/05/07/horsham.html",
+      "note": "Campaign page"
+    },
+    {
+      "url": "http://somethingnew.org.uk/downloads/horsham.pdf",
+      "note": "Election leaflet"
+    }
   ]
 }
