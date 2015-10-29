@@ -1,0 +1,14 @@
+{
+  "id": "lindsey-garrett",
+  "name": "Lindsey Garrett",
+  "gender": "female",
+  "national_identity": "British",
+  "image": "http://somethingnew.org.uk/images/people/lindsey-garrett.jpg",
+  "contact_details": [
+    {
+      "type": "twitter",
+      "label": "Twitter",
+      "value": "@lologarrett35"
+    }
+  ]
+}
