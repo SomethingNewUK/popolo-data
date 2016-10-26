@@ -1,0 +1,14 @@
+{
+  "id": "philip-john",
+  "name": "Philip John",
+  "email": "philip.john@somethingnew.org.uk",
+  "gender": "male",
+  "national_identity": "British",
+  "contact_details": [
+    {
+      "type": "twitter",
+      "label": "Twitter",
+      "value": "philipjohn"
+    }
+  ]
+}
