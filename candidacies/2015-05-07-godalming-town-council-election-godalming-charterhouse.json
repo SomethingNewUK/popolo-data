@@ -2,10 +2,6 @@
   "id": "2015-05-07-godalming-town-council-election-godalming-charterhouse",
   "event_id": "2015-05-07-godalming-town-council-election-godalming-charterhouse",
   "name": "Town Councillor for Godalming Charterhouse",
-  "candidates": [
-    {
-      "person_id": "rebecca-robinson",
-      "organization_id": "something-new"
-    }
-  ]
+  "person_id": "rebecca-robinson",
+  "organization_id": "something-new"
 }

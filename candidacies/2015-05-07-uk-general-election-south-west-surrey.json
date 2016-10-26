@@ -2,20 +2,16 @@
   "id": "2015-05-07-uk-general-election-south-west-surrey",
   "event_id": "2015-05-07-uk-general-election-south-west-surrey",
   "name": "Member of Parliament for South West Surrey",
-  "candidates": [
+  "person_id": "paul-robinson",
+  "organization_id": "something-new",
+  "links": [
     {
-      "person_id": "paul-robinson",
-      "organization_id": "something-new",
-      "links": [
-        {
-          "url": "http://somethingnew.org.uk/elections/2015/05/07/swsurrey.html",
-          "note": "Campaign page"
-        },
-        {
-          "url": "http://somethingnew.org.uk/downloads/swsurrey.pdf",
-          "note": "Election leaflet"
-        }
-      ]
+      "url": "http://somethingnew.org.uk/elections/2015/05/07/swsurrey.html",
+      "note": "Campaign page"
+    },
+    {
+      "url": "http://somethingnew.org.uk/downloads/swsurrey.pdf",
+      "note": "Election leaflet"
     }
   ]
 }

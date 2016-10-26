@@ -2,20 +2,15 @@
   "id": "2015-05-07-uk-general-election-horsham",
   "event_id": "2015-05-07-uk-general-election-horsham",
   "name": "Member of Parliament for Horsham",
-  "candidates": [
+  "person_id": "james-smith",
+  "organization_id": "something-new",
+  "links": [
     {
-      "person_id": "james-smith",
-      "organization_id": "something-new",
-      "links": [
-        {
-          "url": "http://somethingnew.org.uk/elections/2015/05/07/horsham.html",
-          "note": "Campaign page"
-        },
-        {
-          "url": "http://somethingnew.org.uk/downloads/horsham.pdf",
-          "note": "Election leaflet"
-        }
-      ]
+      "url": "http://somethingnew.org.uk/elections/2015/05/07/horsham.html",
+      "note": "Campaign page"
+    },
+    {
+      "url": "http://somethingnew.org.uk/downloads/horsham.pdf",
+      "note": "Election leaflet"
     }
   ]
-}

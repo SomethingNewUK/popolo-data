@@ -2,10 +2,6 @@
   "id": "2015-05-07-godalming-town-council-election-godalming-central-and-ockford",
   "event_id": "2015-05-07-godalming-town-council-election-godalming-central-and-ockford",
   "name": "Town Councillor for Godalming Central and Ockford",
-  "candidates": [
-    {
-      "person_id": "paul-robinson",
-      "organization_id": "something-new"
-    }
-  ]
+  "person_id": "paul-robinson",
+  "organization_id": "something-new"
 }
