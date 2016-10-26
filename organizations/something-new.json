@@ -21,15 +21,5 @@
       "url": "http://somethingnew.org.uk",
       "note": "Web page"
     }
-  ],
-  "memberships": [
-    {
-      "person_id": "james-smith",
-      "role": "Leader & Treasurer"
-    },
-    {
-      "person_id": "paul-robinson",
-      "role": "Nominating Officer"
-    }
   ]
 }
