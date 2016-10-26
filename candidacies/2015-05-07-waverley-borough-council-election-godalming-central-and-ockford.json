@@ -1,16 +1,10 @@
 {
-  "organization": "Waverley Borough Council",
+  "event_id": "2015-05-07-waverley-borough-council-election-godalming-central-and-ockford",
   "label": "Councillor for Godalming Central and Ockford",
-  "role": "Councillor",
-  "area": {
-    "identifier": "http://mapit.mysociety.org/area/7419",
-    "id": "mapit:7419",
-    "name": "Godalming Central and Ockford"
-  },
-  "memberships": [
+  "candidates": [
     {
       "person_id": "paul-robinson",
-      "role": "Candidate"
+      "organization_id": "something-new"
     }
   ]
 }

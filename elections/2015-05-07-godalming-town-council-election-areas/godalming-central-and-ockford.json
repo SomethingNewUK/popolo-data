@@ -5,5 +5,10 @@
   "end_date": "2015-05-07",
   "status": "confirmed",
   "classification": "election",
-  "parent_id": "2015-05-07-godalming-town-council-election"
+  "parent_id": "2015-05-07-godalming-town-council-election",
+  "location": {
+    "identifier": "http://mapit.mysociety.org/area/7419",
+    "id": "mapit:7419",
+    "name": "Godalming Central and Ockford"
+  }
 }

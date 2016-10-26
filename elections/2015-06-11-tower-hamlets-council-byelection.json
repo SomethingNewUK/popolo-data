@@ -1,7 +1,9 @@
 {
   "id": "2015-06-11-tower-hamlets-council-byelection",
   "name": "2015 Tower Hamlets Council Byelection",
+  "organization": "Tower Hamlets Council",
   "start_date": "2015-06-11",
   "end_date": "2015-06-11",
-  "status": "confirmed"
+  "status": "confirmed",
+  "classification": "election"
 }

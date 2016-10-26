@@ -5,5 +5,10 @@
   "end_date": "2015-05-07",
   "status": "confirmed",
   "classification": "election",
-  "parent": "2015-05-07-uk-general-election"
+  "parent": "2015-05-07-uk-general-election",
+  "location": {
+    "identifier": "http://mapit.mysociety.org/area/65678",
+    "id": "mapit:65678",
+    "name": "South West Surrey"
+  }
 }

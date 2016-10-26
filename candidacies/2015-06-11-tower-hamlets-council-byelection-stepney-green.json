@@ -1,26 +1,20 @@
 {
-  "organization": "Tower Hamlets Council",
+  "event_id": "2015-06-11-tower-hamlets-council-byelection-stepney-green",
   "label": "Councillor for Stepney Green",
-  "role": "Councillor",
-  "area": {
-    "identifier": "http://mapit.mysociety.org/area/144376",
-    "id": "mapit:144376",
-    "name": "Stepney Green"
-  },
-  "memberships": [
+  "candidates": [
     {
       "person_id": "jessie-macneil-brown",
-      "role": "Candidate"
-    }
-  ],
-  "links": [
-    {
-      "url": "http://somethingnew.org.uk/elections/2015/06/11/stepney-green.html",
-      "note": "Campaign page"
-    },
-    {
-      "url": "http://somethingnew.org.uk/downloads/stepney-green.pdf",
-      "note": "Election leaflet"
+      "organization_id": "something-new",
+      "links": [
+        {
+          "url": "http://somethingnew.org.uk/elections/2015/06/11/stepney-green.html",
+          "note": "Campaign page"
+        },
+        {
+          "url": "http://somethingnew.org.uk/downloads/stepney-green.pdf",
+          "note": "Election leaflet"
+        }
+      ]
     }
   ]
 }

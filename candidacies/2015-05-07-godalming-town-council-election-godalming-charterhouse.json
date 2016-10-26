@@ -1,16 +1,10 @@
 {
-  "organization": "Godalming Town Council",
+  "event_id": "2015-05-07-godalming-town-council-election-godalming-charterhouse",
   "label": "Councillor for Godalming Charterhouse",
-  "role": "Councillor",
-  "area": {
-    "identifier": "http://mapit.mysociety.org/area/7420",
-    "id": "mapit:7420",
-    "name": "Godalming Charterhouse"
-  },
-  "memberships": [
+  "candidates": [
     {
       "person_id": "rebecca-robinson",
-      "role": "Candidate"
+      "organization_id": "something-new"
     }
   ]
 }

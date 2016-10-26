@@ -1,26 +1,20 @@
 {
-  "organization": "UK House of Commons",
+  "event_id": "2015-05-07-uk-general-election-horsham",
   "label": "Member of Parliament for Horsham",
-  "role": "Member of Parliament",
-  "area": {
-    "identifier": "http://mapit.mysociety.org/area/65717",
-    "id": "mapit:65717",
-    "name": "Horsham"
-  },
-  "memberships": [
+  "candidates": [
     {
       "person_id": "james-smith",
-      "role": "Candidate"
-    }
-  ],
-  "links": [
-    {
-      "url": "http://somethingnew.org.uk/elections/2015/05/07/horsham.html",
-      "note": "Campaign page"
-    },
-    {
-      "url": "http://somethingnew.org.uk/downloads/horsham.pdf",
-      "note": "Election leaflet"
+      "organization_id": "something-new",
+      "links": [
+        {
+          "url": "http://somethingnew.org.uk/elections/2015/05/07/horsham.html",
+          "note": "Campaign page"
+        },
+        {
+          "url": "http://somethingnew.org.uk/downloads/horsham.pdf",
+          "note": "Election leaflet"
+        }
+      ]
     }
   ]
 }

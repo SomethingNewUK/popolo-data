@@ -5,5 +5,10 @@
   "end_date": "2015-05-07",
   "status": "confirmed",
   "classification": "election",
-  "parent_id": "2015-05-07-godalming-town-council-election"
+  "parent_id": "2015-05-07-godalming-town-council-election",
+  "location": {
+    "identifier": "http://mapit.mysociety.org/area/7420",
+    "id": "mapit:7420",
+    "name": "Godalming Charterhouse"
+  }
 }

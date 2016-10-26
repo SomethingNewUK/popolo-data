@@ -5,5 +5,10 @@
   "end_date": "2015-06-11",
   "status": "confirmed",
   "classification": "byelection",
-  "parent_id": "2015-06-11-tower-hamlets-council-byelection"
+  "parent_id": "2015-06-11-tower-hamlets-council-byelection",
+  "location": {
+    "identifier": "http://mapit.mysociety.org/area/144376",
+    "id": "mapit:144376",
+    "name": "Stepney Green"
+  }
 }

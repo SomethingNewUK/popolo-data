@@ -1,7 +1,9 @@
 {
   "id": "2015-05-07-waverley-borough-council-election",
   "name": "2015 Waverley Borough Council Election",
+  "organization": "Waverley Borough Council",
   "start_date": "2015-05-07",
   "end_date": "2015-05-07",
-  "status": "confirmed"
+  "status": "confirmed",
+  "classification": "election"
 }

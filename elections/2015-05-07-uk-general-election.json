@@ -7,7 +7,9 @@
     }
   ],
   "name": "2015 UK General Election",
+  "organization": "UK House of Commons",
   "start_date": "2015-05-07",
   "end_date": "2015-05-07",
-  "status": "confirmed"
+  "status": "confirmed",
+  "classification": "election"
 }
