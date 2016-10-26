@@ -1,6 +1,11 @@
 {
   "id": "2015-05-07-uk-general-election",
-  "democracyclub_id": "ge2015",
+  "identifiers": [
+    {
+      "identifier": "ge2015",
+      "scheme": "Democracy Club"
+    }
+  ],
   "name": "2015 UK General Election",
   "start_date": "2015-05-07",
   "end_date": "2015-05-07",
