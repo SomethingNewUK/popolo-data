@@ -10,6 +10,11 @@
       "type": "twitter",
       "label": "Twitter",
       "value": "pauljrobinson"
+    },
+    {
+      "type": "github",
+      "label": "GitHub",
+      "value": "PaulJRobinson"
     }
   ]
 }

@@ -9,6 +9,11 @@
       "type": "twitter",
       "label": "Twitter",
       "value": "philipjohn"
+    },
+    {
+      "type": "github",
+      "label": "GitHub",
+      "value": "philipjohn"
     }
   ]
 }
