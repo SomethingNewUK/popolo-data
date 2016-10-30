@@ -1,8 +1,22 @@
 {
   "id": "philip-john",
   "name": "Philip John",
+  "other_names": [
+    {
+      "name": "Philip John Peter",
+      "note": "Full name"
+    }
+  ],
+  "identifiers": [
+    {
+      "identifier": "http://id.philipjohn.me.uk",
+      "scheme": "URI"
+    }
+  ],
   "email": "philip.john@somethingnew.org.uk",
   "gender": "male",
+  "birth_date": "1985-03-05",
+  "image": "https://secure.gravatar.com/avatar/8cb706c661a467c8f737bd6a7c506f0c",
   "national_identity": "British",
   "contact_details": [
     {
@@ -14,6 +28,12 @@
       "type": "github",
       "label": "GitHub",
       "value": "philipjohn"
+    }
+  ],
+  "links": [
+    {
+      "url": "http://philipjohn.me.uk",
+      "note": "Personal web page"
     }
   ]
 }
