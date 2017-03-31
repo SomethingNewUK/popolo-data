@@ -1,0 +1,14 @@
+{
+  "id": "paul-howells",
+  "name": "Paul Howells",
+  "gender": "male",
+  "image": "https://pbs.twimg.com/profile_images/1156714870/cropped-photo_400x400.png",
+  "national_identity": "British",
+  "contact_details": [
+    {
+      "type": "twitter",
+      "label": "Twitter",
+      "value": "paulhhowells"
+    }
+  ]
+}
