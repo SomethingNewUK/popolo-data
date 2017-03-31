@@ -1,0 +1,14 @@
+{
+  "id": "local.staffordshire.lichfield-city-north.2017-05-04",
+  "name": "2017 Staffordshire County Council Election: Lichfield City North",
+  "start_date": "2015-05-04",
+  "end_date": "2015-05-04",
+  "status": "confirmed",
+  "classification": "election",
+  "parent_id": "local.staffordshire.2017-05-04",
+  "location": {
+    "identifier": "https://mapit.mysociety.org/area/143867",
+    "id": "mapit:143867",
+    "name": "Lichfield City North"
+  }
+}

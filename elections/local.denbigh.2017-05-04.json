@@ -1,0 +1,10 @@
+{
+  "id": "local.denbigh.2017-05-04",
+  "name": "2017 Denbigh Town Council Election",
+  "organization": "Denbigh Town Council",
+  "start_date": "2015-05-04",
+  "end_date": "2015-05-04",
+  "status": "confirmed",
+  "classification": "election",
+  "parent_id": "local.2017-05-04"
+}

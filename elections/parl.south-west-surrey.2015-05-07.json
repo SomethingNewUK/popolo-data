@@ -1,0 +1,14 @@
+{
+  "id": "parl.south-west-surrey.2015-05-07",
+  "name": "2015 UK General Election: South West Surrey Constituency",
+  "start_date": "2015-05-07",
+  "end_date": "2015-05-07",
+  "status": "confirmed",
+  "classification": "election",
+  "parent_id": "parl.2015-05-07",
+  "location": {
+    "identifier": "http://mapit.mysociety.org/area/65678",
+    "id": "mapit:65678",
+    "name": "South West Surrey"
+  }
+}

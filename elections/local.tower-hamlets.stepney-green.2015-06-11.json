@@ -1,0 +1,14 @@
+{
+  "id": "local.tower-hamlets.stepney-green.2015-06-11",
+  "name": "2015 Tower Hamlets Council Byelection: Stepney Green Ward",
+  "start_date": "2015-06-11",
+  "end_date": "2015-06-11",
+  "status": "confirmed",
+  "classification": "byelection",
+  "parent_id": "local.tower-hamlets.2015-06-11",
+  "location": {
+    "identifier": "http://mapit.mysociety.org/area/144376",
+    "id": "mapit:144376",
+    "name": "Stepney Green"
+  }
+}

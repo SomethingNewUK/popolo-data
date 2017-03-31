@@ -1,0 +1,14 @@
+{
+  "id": "local.west-sussex.holbrook.2017-05-04",
+  "name": "2017 West Sussex County Council Election: Holbrook",
+  "start_date": "2015-05-04",
+  "end_date": "2015-05-04",
+  "status": "confirmed",
+  "classification": "election",
+  "parent_id": "local.west-sussex.2017-05-04",
+  "location": {
+    "identifier": "https://mapit.mysociety.org/area/53229",
+    "id": "mapit:53229",
+    "name": "Holbrook"
+  }
+}

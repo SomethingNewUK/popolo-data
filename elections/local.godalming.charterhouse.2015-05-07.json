@@ -1,0 +1,14 @@
+{
+  "id": "local.godalming.charterhouse.2015-05-07",
+  "name": "2015 Godalming Town Council Election: Godalming Charterhouse Ward",
+  "start_date": "2015-05-07",
+  "end_date": "2015-05-07",
+  "status": "confirmed",
+  "classification": "election",
+  "parent_id": "local.godalming.2015-05-07",
+  "location": {
+    "identifier": "http://mapit.mysociety.org/area/7420",
+    "id": "mapit:7420",
+    "name": "Godalming Charterhouse"
+  }
+}

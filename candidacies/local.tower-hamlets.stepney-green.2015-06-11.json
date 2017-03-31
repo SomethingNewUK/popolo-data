@@ -1,0 +1,17 @@
+{
+  "id": "local.tower-hamlets.stepney-green.2015-06-11",
+  "event_id": "local.tower-hamlets.stepney-green.2015-06-11",
+  "name": "Borough Councillor for Stepney Green",
+  "person_id": "jessie-macneil-brown",
+  "organization_id": "something-new",
+  "links": [
+    {
+      "url": "http://somethingnew.org.uk/elections/2015/06/11/stepney-green.html",
+      "note": "Campaign page"
+    },
+    {
+      "url": "http://somethingnew.org.uk/downloads/stepney-green.pdf",
+      "note": "Election leaflet"
+    }
+  ]
+}

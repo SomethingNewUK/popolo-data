@@ -1,0 +1,14 @@
+{
+  "id": "local.denbigh.denbigh-central.2017-05-04",
+  "name": "2017 Denbigh Town Council Election: Denbigh Central Ward",
+  "start_date": "2015-05-04",
+  "end_date": "2015-05-04",
+  "status": "confirmed",
+  "classification": "election",
+  "parent_id": "local.denbigh.2017-05-04",
+  "location": {
+    "identifier": "https://mapit.mysociety.org/area/12597",
+    "id": "mapit:12597",
+    "name": "Denbigh Central"
+  }
+}
