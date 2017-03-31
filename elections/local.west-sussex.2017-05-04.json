@@ -2,8 +2,8 @@
   "id": "local.west-sussex.2017-05-04",
   "name": "2017 West Sussex County Council Election",
   "organization": "West Sussex County Council",
-  "start_date": "2015-05-04",
-  "end_date": "2015-05-04",
+  "start_date": "2017-05-04",
+  "end_date": "2017-05-04",
   "status": "confirmed",
   "classification": "election",
   "parent_id": "local.2017-05-04"

@@ -2,8 +2,8 @@
   "id": "local.lichfield.2017-05-04",
   "name": "2017 Lichfield City Council Election",
   "organization": "Lichfield City Council",
-  "start_date": "2015-05-04",
-  "end_date": "2015-05-04",
+  "start_date": "2017-05-04",
+  "end_date": "2017-05-04",
   "status": "confirmed",
   "classification": "election",
   "parent_id": "local.2017-05-04"
