@@ -4,5 +4,6 @@
   "name": "Town Councillor for Godalming Charterhouse",
   "person_id": "rebecca-robinson",
   "organization_id": "something-new",
-  "votes": 447
+  "votes": 447,
+  "elected": false
 }

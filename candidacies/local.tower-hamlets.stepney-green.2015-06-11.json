@@ -14,5 +14,6 @@
       "note": "Election leaflet"
     }
   ],
-  "votes": 40
+  "votes": 40,
+  "elected": false
 }

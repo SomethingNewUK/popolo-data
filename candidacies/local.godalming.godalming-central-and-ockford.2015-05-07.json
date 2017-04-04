@@ -4,5 +4,6 @@
   "name": "Town Councillor for Godalming Central and Ockford",
   "person_id": "paul-robinson",
   "organization_id": "something-new",
-  "votes": 628
+  "votes": 628,
+  "elected": false
 }
