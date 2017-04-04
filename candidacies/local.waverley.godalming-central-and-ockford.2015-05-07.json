@@ -4,6 +4,9 @@
   "name": "District Councillor for Godalming Central and Ockford",
   "person_id": "paul-robinson",
   "organization_id": "something-new",
-  "votes": 485,
-  "elected": false
+  "result": {
+    "votes": 485,
+    "share": 0.21068636,
+    "elected": false
+  }
 }

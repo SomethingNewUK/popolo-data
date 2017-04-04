@@ -14,6 +14,9 @@
       "note": "Election leaflet"
     }
   ],
-  "votes": 40,
-  "elected": false
+  "result": {
+    "votes": 40,
+    "share": 0.010251153,
+    "elected": false
+  }
 }
