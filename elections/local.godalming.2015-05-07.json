@@ -6,6 +6,5 @@
   "end_date": "2015-05-07",
   "status": "confirmed",
   "classification": "election",
-  "parent_id": "local.2015-05-07",
-
+  "parent_id": "local.2015-05-07"
 }
