@@ -4,7 +4,7 @@
   "email": "paul.robinson@somethingnew.org.uk",
   "gender": "male",
   "national_identity": "British",
-  "image": "http://somethingnew.org.uk/images/people/paul-robinson.jpg",
+  "image": "https://somethingnew.org.uk/images/people/paul-robinson.jpg",
   "contact_details": [
     {
       "type": "twitter",

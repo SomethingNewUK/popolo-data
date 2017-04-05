@@ -17,7 +17,7 @@
   "email": "james.smith@somethingnew.org.uk",
   "gender": "male",
   "birth_date": "1976-06-04",
-  "image": "http://somethingnew.org.uk/images/people/james-smith.jpg",
+  "image": "https://somethingnew.org.uk/images/people/james-smith.jpg",
   "national_identity": "British",
   "contact_details": [
     {
