@@ -3,5 +3,11 @@
   "event_id": "local.lichfield.stowe.2017-05-04",
   "name": "City Councillor for Stowe",
   "person_id": "philip-john",
-  "organization_id": "something-new"
+  "organization_id": "something-new",
+  "links": [
+    {
+      "url": "https://somethingnew.org.uk/elections/2017/05/04/lichfield-city-north.html",
+      "note": "Campaign page"
+    }
+  ]
 }
