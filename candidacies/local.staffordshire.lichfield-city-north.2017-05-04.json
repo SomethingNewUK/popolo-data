@@ -3,5 +3,11 @@
   "event_id": "local.staffordshire.lichfield-city-north.2017-05-04",
   "name": "County Councillor for Lichfield City North",
   "person_id": "philip-john",
-  "organization_id": "something-new"
+  "organization_id": "something-new",
+  "links": [
+    {
+      "url": "https://somethingnew.org.uk/elections/2017/05/04/lichfield-city-north.html",
+      "note": "Campaign page"
+    }
+  ]
 }
