@@ -3,5 +3,11 @@
   "event_id": "local.west-sussex.holbrook.2017-05-04",
   "name": "County Councillor for Holbrook",
   "person_id": "james-smith",
-  "organization_id": "something-new"
+  "organization_id": "something-new",
+  "links": [
+    {
+      "url": "https://somethingnew.org.uk/elections/2017/05/04/holbrook.html",
+      "note": "Campaign page"
+    }
+  ]
 }
