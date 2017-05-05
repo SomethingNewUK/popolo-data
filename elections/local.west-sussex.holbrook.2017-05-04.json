@@ -10,5 +10,9 @@
     "identifier": "https://mapit.mysociety.org/area/53229",
     "id": "mapit:53229",
     "name": "Holbrook"
+  },
+  "result": {
+    "votes": 199,
+    "url": "http://www2.westsussex.gov.uk/ds/elections/results/42holbrook.pdf"
   }
 }
