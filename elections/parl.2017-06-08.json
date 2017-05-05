@@ -1,0 +1,15 @@
+{
+  "id": "parl.2017-06-08",
+  "identifiers": [
+    {
+      "identifier": "ge2017",
+      "scheme": "Democracy Club"
+    }
+  ],
+  "name": "2017 UK General Election",
+  "organization": "UK House of Commons",
+  "start_date": "2017-06-08",
+  "end_date": "2017-06-08",
+  "status": "confirmed",
+  "classification": "election"
+}
