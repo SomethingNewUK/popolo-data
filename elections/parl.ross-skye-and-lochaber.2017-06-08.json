@@ -1,0 +1,14 @@
+{
+  "id": "parl.ross-skye-and-lochaber.2017-06-08",
+  "name": "2017 UK General Election: Ross, Skye and Lochaber Constituency",
+  "start_date": "2017-06-08",
+  "end_date": "2017-06-08",
+  "status": "confirmed",
+  "classification": "election",
+  "parent_id": "parl.2017-06-08",
+  "location": {
+    "identifier": "http://mapit.mysociety.org/area/14452",
+    "id": "mapit:14452",
+    "name": "ross-skye-and-lochaber"
+  }
+}
