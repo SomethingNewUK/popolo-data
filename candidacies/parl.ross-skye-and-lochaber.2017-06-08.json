@@ -4,4 +4,10 @@
   "name": "Member of Parliament for Ross, Skye and Lochaber",
   "person_id": "lewis-sturrock",
   "organization_id": "something-new",
+  "links": [
+    {
+      "url": "https://somethingnew.org.uk/elections/2017/06/08/ross-skye-and-lochaber.html",
+      "note": "Campaign page"
+    }
+  ]
 }
