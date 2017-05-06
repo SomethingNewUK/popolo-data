@@ -9,5 +9,10 @@
       "url": "https://somethingnew.org.uk/elections/2017/05/04/holbrook.html",
       "note": "Campaign page"
     }
-  ]
+  ],
+  "result": {
+    "votes": 199,
+    "share": 0.063395986,
+    "elected": false
+  }
 }

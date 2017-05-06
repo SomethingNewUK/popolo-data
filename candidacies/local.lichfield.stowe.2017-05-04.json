@@ -9,5 +9,10 @@
       "url": "https://somethingnew.org.uk/elections/2017/05/04/lichfield-city-north.html",
       "note": "Campaign page"
     }
-  ]
+  ],
+  "result": {
+    "votes": 101,
+    "share": 0.068989071,
+    "elected": false
+  }
 }
