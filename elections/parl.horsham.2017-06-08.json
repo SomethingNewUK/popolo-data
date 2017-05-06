@@ -1,0 +1,14 @@
+{
+  "id": "parl.horsham.2017-06-08",
+  "name": "2017 UK General Election: Horsham Constituency",
+  "start_date": "2017-06-08",
+  "end_date": "2017-06-08",
+  "status": "confirmed",
+  "classification": "election",
+  "parent_id": "parl.2017-06-08",
+  "location": {
+    "identifier": "http://mapit.mysociety.org/area/65717",
+    "id": "mapit:65717",
+    "name": "Horsham"
+  }
+}
