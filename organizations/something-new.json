@@ -8,7 +8,7 @@
     },
   ],
   "classification": "Political Party",
-  "image": "http://somethingnew.org.uk/images/logo.jpg",
+  "image": "https://somethingnew.org.uk/images/logo.jpg",
   "contact_details": [
     {
       "type": "email",
@@ -18,7 +18,7 @@
   ],
   "links": [
     {
-      "url": "http://somethingnew.org.uk",
+      "url": "https://somethingnew.org.uk",
       "note": "Web page"
     }
   ]
