@@ -13,5 +13,10 @@
       "url": "https://somethingnew.org.uk/downloads/parl.ross-skye-and-lochaber.2017-06-08.pdf",
       "note": "Election leaflet"
     }
-  ]
+  ],
+  "result": {
+    "votes": 177,
+    "share": 0.004597044,
+    "elected": false
+  }
 }

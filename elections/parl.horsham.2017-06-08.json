@@ -10,5 +10,9 @@
     "identifier": "http://mapit.mysociety.org/area/65717",
     "id": "mapit:65717",
     "name": "Horsham"
+  },
+  "result": {
+    "votes": 61987,
+    "url": "https://www.horsham.gov.uk/__data/assets/pdf_file/0010/45955/Declaration-of-result-Horsham-Constituenvy-080617.pdf"
   }
 }

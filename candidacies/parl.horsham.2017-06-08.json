@@ -13,5 +13,10 @@
       "url": "https://somethingnew.org.uk/downloads/parl.horsham.2017-06-08.pdf",
       "note": "Election leaflet"
     }
-  ]
+  ],
+  "result": {
+    "votes": 375,
+    "share": 0.006049656,
+    "elected": false
+  }
 }
