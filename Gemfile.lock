@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    jsonlint (0.2.0)
+      oj (~> 2)
+      trollop (~> 2)
+    oj (2.18.5)
+    trollop (2.1.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jsonlint
+
+RUBY VERSION
+   ruby 2.4.1p111
+
+BUNDLED WITH
+   1.15.1
