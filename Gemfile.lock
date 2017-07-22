@@ -5,6 +5,7 @@ GEM
       oj (~> 2)
       trollop (~> 2)
     oj (2.18.5)
+    rake (12.0.0)
     trollop (2.1.2)
 
 PLATFORMS
@@ -12,6 +13,7 @@ PLATFORMS
 
 DEPENDENCIES
   jsonlint
+  rake
 
 RUBY VERSION
    ruby 2.4.1p111
