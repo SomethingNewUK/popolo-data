@@ -5,7 +5,7 @@ JsonLint::RakeTask.new(:jsonlint) do |t|
     **/*.json
   )
   t.exclude_paths = %w(
-    vendor/*
+    vendor/**
   )
 end
 
