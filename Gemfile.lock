@@ -1,9 +1,14 @@
-GEM
-  remote: https://rubygems.org/
+GIT
+  remote: https://github.com/PagerDuty/jsonlint.git
+  revision: 0562fb088ad407e450136e06dbe52342221c287f
   specs:
     jsonlint (0.2.0)
       oj (~> 2)
       trollop (~> 2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
     oj (2.18.5)
     rake (12.0.0)
     trollop (2.1.2)
@@ -12,7 +17,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jsonlint
+  jsonlint!
   rake
 
 RUBY VERSION
