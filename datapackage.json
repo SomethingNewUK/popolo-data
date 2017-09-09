@@ -1,6 +1,6 @@
 {
-  "name" : "something-new-candidates",
-  "title" : "Something New Candidates",
+  "name" : "something-new-party-data",
+  "title" : "Something New Party Data",
   "licenses": [
     {
       "id": "CC-BY-4.0",
@@ -9,14 +9,14 @@
   ],
   "publishers": [
     {
-      "name": "James Smith",
-      "web": "http://www.floppy.org.uk"
+      "name": "Something New",
+      "web": "https://somethingnew.org.uk"
     }
   ],
   "maintainers": [
     {
       "name": "James Smith",
-      "web": "http://www.floppy.org.uk"
+      "web": "https://floppy.org.uk"
     }
   ]
 }
