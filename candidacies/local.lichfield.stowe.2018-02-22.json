@@ -1,0 +1,13 @@
+{
+  id: "local.lichfield.stowe.2018-02-22",
+  event_id: "local.lichfield.stowe.2018-02-22",
+  name: "District Councillor for Stowe",
+  person_id: "philip-john",
+  organization_id: "something-new",
+  links: [
+    {
+      url: "https://somethingnew.org.uk/elections/2018/02/22/lichfield-stowe.html",
+      note: "Campaign page"
+    }
+  ]
+}
