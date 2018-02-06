@@ -1,8 +1,8 @@
 {
-  id: "local.2018-02-22",
-  name: "2018 Local Elections",
-  start_date: "2018-02-22",
-  end_date: "2018-02-22",
-  status: "confirmed",
-  classification: "election"
+  "id": "local.2018-02-22",
+  "name": "2018 Local Elections",
+  "start_date": "2018-02-22",
+  "end_date": "2018-02-22",
+  "status": "confirmed",
+  "classification": "election"
 }
