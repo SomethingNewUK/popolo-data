@@ -1,0 +1,10 @@
+{
+  "id": "local.lichfield-district.2018-02-22",
+  "name": "2018 Lichfield City Council Election",
+  "organization": "Lichfield City Council ",
+  "start_date": "2018-02-22",
+  "end_date": "2018-02-22",
+  "status": "confirmed",
+  "classification": "election",
+  "parent_id": "local.2018-02-22"
+}

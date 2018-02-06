@@ -5,7 +5,7 @@
   "end_date": "2018-02-22",
   "status": "confirmed",
   "classification": "election",
-  "parent_id": "local.lichfield.2018-02-22",
+  "parent_id": "local.lichfield-district.2018-02-22",
   "location": {
     "identifier": "https://mapit.mysociety.org/area/145410",
     "id": "mapit:145410",
