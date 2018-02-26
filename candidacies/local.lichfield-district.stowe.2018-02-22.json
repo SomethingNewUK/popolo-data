@@ -9,5 +9,10 @@
       "url": "https://somethingnew.org.uk/elections/2018/02/22/lichfield-stowe.html",
       "note": "Campaign page"
     }
-  ]
+  ],
+  "result": {
+    "votes": 59,
+    "share": 0.051438535,
+    "elected": false
+  }
 }
