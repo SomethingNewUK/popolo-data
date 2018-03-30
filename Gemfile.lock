@@ -10,7 +10,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     oj (2.18.5)
-    rake (12.3.0)
+    rake (12.3.1)
     trollop (2.1.2)
 
 PLATFORMS
