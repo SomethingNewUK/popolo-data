@@ -1,17 +1,17 @@
 GIT
   remote: https://github.com/PagerDuty/jsonlint.git
-  revision: 0562fb088ad407e450136e06dbe52342221c287f
+  revision: f817a0b401748d500a833b08f7ab160c4c13b9c1
   specs:
-    jsonlint (0.2.0)
-      oj (~> 2)
-      trollop (~> 2)
+    jsonlint (0.3.0)
+      oj (~> 3)
+      optimist (~> 3)
 
 GEM
   remote: https://rubygems.org/
   specs:
-    oj (2.18.5)
+    oj (3.8.0)
+    optimist (3.0.0)
     rake (12.3.3)
-    trollop (2.1.2)
 
 PLATFORMS
   ruby
