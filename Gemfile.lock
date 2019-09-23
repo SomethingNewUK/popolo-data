@@ -1,15 +1,10 @@
-GIT
-  remote: https://github.com/PagerDuty/jsonlint.git
-  revision: f817a0b401748d500a833b08f7ab160c4c13b9c1
+GEM
+  remote: https://rubygems.org/
   specs:
     jsonlint (0.3.0)
       oj (~> 3)
       optimist (~> 3)
-
-GEM
-  remote: https://rubygems.org/
-  specs:
-    oj (3.8.0)
+    oj (3.9.1)
     optimist (3.0.0)
     rake (12.3.3)
 
@@ -17,11 +12,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jsonlint!
+  jsonlint (~> 0.3)
   rake
 
-RUBY VERSION
-   ruby 2.4.2p198
-
 BUNDLED WITH
-   1.15.4
+   1.17.2

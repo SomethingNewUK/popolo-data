@@ -1,9 +1,7 @@
 source "https://rubygems.org"
 
-ruby "2.4.2"
-
 gem "rake"
 
 group :test do
-  gem "jsonlint", git: "https://github.com/PagerDuty/jsonlint.git" # Until > 0.2.0 is released
+  gem "jsonlint", "~> 0.3"
 end
