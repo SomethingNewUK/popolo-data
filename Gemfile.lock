@@ -6,7 +6,7 @@ GEM
       optimist (~> 3)
     oj (3.9.1)
     optimist (3.0.0)
-    rake (12.3.3)
+    rake (13.0.0)
 
 PLATFORMS
   ruby
