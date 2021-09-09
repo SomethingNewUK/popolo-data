@@ -4,7 +4,7 @@ GEM
     jsonlint (0.3.0)
       oj (~> 3)
       optimist (~> 3)
-    oj (3.13.4)
+    oj (3.13.5)
     optimist (3.0.1)
     rake (13.0.6)
 
