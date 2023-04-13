@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    jsonlint (0.3.0)
+    jsonlint (0.4.0)
       oj (~> 3)
       optimist (~> 3)
     oj (3.14.3)
@@ -12,7 +12,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jsonlint (~> 0.3)
+  jsonlint (~> 0.4)
   rake
 
 BUNDLED WITH
