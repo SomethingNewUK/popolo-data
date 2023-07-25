@@ -5,7 +5,7 @@ GEM
       oj (~> 3)
       optimist (~> 3)
     oj (3.15.0)
-    optimist (3.0.1)
+    optimist (3.1.0)
     rake (13.0.6)
 
 PLATFORMS
