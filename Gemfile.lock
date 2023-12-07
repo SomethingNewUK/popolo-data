@@ -1,10 +1,12 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    bigdecimal (3.1.4)
     jsonlint (0.4.0)
       oj (~> 3)
       optimist (~> 3)
-    oj (3.16.1)
+    oj (3.16.2)
+      bigdecimal (~> 3.1)
     optimist (3.1.0)
     rake (13.1.0)
 
