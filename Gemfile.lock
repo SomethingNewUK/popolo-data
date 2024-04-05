@@ -8,7 +8,7 @@ GEM
     oj (3.16.3)
       bigdecimal (>= 3.0)
     optimist (3.1.0)
-    rake (13.2.0)
+    rake (13.2.1)
 
 PLATFORMS
   ruby
